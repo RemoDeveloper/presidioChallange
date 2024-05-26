@@ -2,7 +2,7 @@
   "name": "realtorApp",
   "version": "1.0.0",
   "description": "mvp of my real estate idea",
-  "author": "Jordan Bishop",
+  "author": "rameshphatak1118",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
